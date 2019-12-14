@@ -160,7 +160,6 @@ publications:
         link: "#"
         authors: Janice M. Roehl-Anderson
         conference: "Brandon P Patterson, Contributing author"       
-        
       - title: Installating Oracle Business Intelligence and Oracle Field Sales Online
         link: "#"
         authors: Brandon P Patterson
@@ -177,16 +176,16 @@ skills:
       - name: IT Project Management
         level: 98%
 
-      - name: Mergers & Acquisitions: Receive and Operate
+      - name: M&A, Receive and Operate
         level: 98%
 
       - name: Oracle ERP
         level: 98%
 
-      - name: Infrastructure & Architecture
+      - name: Infrastructure
         level: 98%
 
-      - name: Ricoh Global Print Solution
+      - name: Global Print Solutions
         level: 90%
 
       - name: Jekyll & Hugo
