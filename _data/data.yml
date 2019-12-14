@@ -136,6 +136,17 @@ publications:
         link: "#"
         authors: Janice M. Roehl-Anderson
         conference: "Contributing author"
+        
+      - title: IT Best Practices for Financial Managers
+        link: "#"
+        authors: Janice M. Roehl-Anderson
+        conference: "Contributing author"
+        
+      - title: IT Best Practices for Financial Managers
+        link: "#"
+        authors: Janice M. Roehl-Anderson
+        conference: "Contributing author"        
+        
       - title: Installating Oracle Business Intelligence and Oracle Field Sales Online
         link: "#"
         authors: Brandon P Patterson
@@ -144,8 +155,6 @@ publications:
         link: "#"
         authors: Brandon P Patterson
         conference: "North Central Oracle Applications Users Group Conference"
-
-North Central Oracle Applications Users Group Conference (Spring)– The presentation focused on the Oracle Network Computer Architecture (NCA)
 
 skills:
     title: Skills &amp; Proficiency
