@@ -49,7 +49,7 @@ education:
 experiences:
     - role: Founder and President
       time: 2017 - Present
-      company: JDee International, Pittsburgh
+      company: JDee International Corporation, Pittsburgh
       details: |
         Identify disruptive blockchain solutions related to decentralized storage, logistics systems, auto insurance and cross-border fiat transactions while supporting operations through cryptocurrency mining.
           - Lead researcher and designer to deploy Bitcoin Teller Machines for a commercial grocery store chain to complement their existing banking ATMs          
@@ -77,6 +77,14 @@ experiences:
           - Contributing author, IT Best Practices for Financial Managers
           - Create the change and release management methodology for Enterprise Value Delivery methodology
           - Lead the Recruiting Certification Initiative and internal training for SOA and CCRM
+    - role: Founder and President
+      time: 2001 - 2004
+      company: JDee International Corporation, St. Louis
+      details: |
+        Match qualified resources with client needs, negotiate contracts and service level agreements, coordinate logistics and manage the day-to-day operations of the business.
+          - Augmented Oracle ERP implementation teams at The Nielsen Corporation, University Hospitals Cleveland Medical Center, Motorola and Mastercard with developers and database administrators
+          - Lead Oracle ERP DBA for the upgrade of Oracle Financials from 11.0.3 to 11i
+          - Gross revenue of $2.6M
 projects:
     title: Projects
     intro: >
