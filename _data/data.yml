@@ -109,25 +109,49 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Intira (formerly Digital Broadcast Network)
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Oracle Applications 11.0.1 Implementation and upgrade to 11.0.2.  Lead DBA responsible for entire technical infrastructure including hardware, network and software implementation.  Resource staffing and technical project coordination for all technical resources onsite.  As recorded by Oracle Corporation, was the fourth person in the United States to successfully implement Oracle Business Intelligence, the first non-Oracle Corporation employee to accomplish this task."
 
-      - title: DevStudio
+      - title: AAR Cooper Aviation
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Oracle Applications 10.7 Supply Chain Management and Financials – Technical team lead focusing on all technical aspects of a simultaneous multi-project, multi-site implementation.  Managed all Oracle Technical Assistance Requests (TARs) for the simultaneous implementations and directed technical resources developing legacy system interfaces and business process re-engineering efforts."
 
-      - title: Tempo
+      - title: Motorola
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Created the environment for the installation of Oracle Applications and third party software."
 
-      - title: Atom
+      - title: The Metzler Group
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Technical lead for the implementation of Oracle Applications 11.0.2 including hardware sizing, technical environment setup and configuration, initial Oracle Applications installation and the cloning of the initial environment to create development, test and control instances.  Staffed the technical team."
 
-      - title: Delta
+      - title: Sony America
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Designed the technical architecture for the Oracle Financials Applications through the use of “as-is” and “future state” documentation of applications and interfaces.  Recommendations for infrastructure upgrades and application architecture were made based on the information gathered."
+
+      - title: Federated Insurance
+        link: "#hook"
+        tagline: "Developed an auditing system for Oracle database changes through the use of stored procedures and triggers.  Loaded data into the client side SQLBase database for use with Aurum sales force automation software."
+
+      - title: Crestar Bank
+        link: "#"
+        tagline: "Create the Entity Relationship Diagram (ERD) and implemented an Oracle data warehouse based on the PeopleSoft Financials data model.  Design and implementation of legacy systems (Oracle side only) in which the data was “massaged” for input into Cognos reporting tools and acted as a general technical resource for the PeopleSoft functional implementation teams."
+
+      - title: GELCO/Fastrack
+        link: "#"
+        agline: "Member of Visual Basic (VB) application programming team, creating a custom application to coordinate the field representative’s sales, product and contact information via client/server technology."
+
+      - title: New York City Transit Authority
+        link: "#"
+        tagline: "Installed and cloned an instance of the Oracle 7 database, installed PeopleSoft HRMS and installed and configured several PC applications required by the project team."
+
+      - title: Burger King
+        link: "#"
+        tagline: "Developed and implemented a custom reporting application using Access Basic in Microsoft Access version 2.0 to use in place of Microsoft Project per client’s request."  
+        
+      - title: Integrated Health Services
+        link: "#hook"
+        tagline: "Installed three instances of the Oracle 7 database and PeopleSoft HRMS."
 
 publications:
     title: Publications
