@@ -55,17 +55,14 @@ experiences:
           - Lead researcher and designer to deploy Bitcoin Teller Machines for a commercial grocery store chain to complement their existing banking ATMs          
           - Established XRP gateways and sent fiat (USD) across RippleNet using Ripple’s propriety blockchain technology and XRP to move the money instantly, reliably, and for fractions of a penny
           - Build, support and operate cryptocurrency mining rigs on a 24x7 basis to mine Bitcoin and Litecoin
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Manager
+      time: 2016 - 2017
+      company: Quality Deployment, Inc., Parsippany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Build and deliver the technical infrastructure for Ascensia Diabetes Care, re-engineer business processes and infrastructure for the standalone company to increase efficiency and reduce costs, drive results from external vendors, and negotiate legal contracts for new software and services.
+          - IT Project Manager for four global projects: Managed print services implementation project (24 sites), Customer Service Center migration project (19 countries), Mobile device migration project (~1700 mobile devices across 34 countries), MPLS network deployment project (17 sites)
+          - Develop the site deployment governance model for new laptop deployment in 19 countries
+          - Manage and drive RFP teams for five selection processes: Learning Management System, Benchmarking solution, Content Management Server, Global Managed Print Services Solution and Mobile Device and Contract Procurement Vendor
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
