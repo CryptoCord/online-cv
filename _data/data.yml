@@ -24,16 +24,13 @@ sidebar:
 
     interests:
       - item: Scuba diving
-        link:
-
-      - item: Saving the planet
-        link:
+        link: https://www.padi.com/
 
       - item: Blockchain technology
-        link:
+        link: https://www.coindesk.com/
         
       - item: Cryptocurrency
-        link:
+        link: https://www.coinbase.com/learn
 
 career-profile:
     title: Career Profile
