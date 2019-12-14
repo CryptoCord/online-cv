@@ -39,9 +39,11 @@ career-profile:
 education:
     - degree: B.S. in Computer Engineering
       university: Case Western Reserve University
+      link: https://case.edu/
       time: 1995
     - degree: A.A.S. in Computer Systems Electronics Technology
       university: Westermoreland County CC
+      link: https://westmoreland.edu/
       time: 1992
 experiences:
     - role: Founder and President
