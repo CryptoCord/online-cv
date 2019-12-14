@@ -93,6 +93,15 @@ experiences:
           - Operate the Oracle ERP system on a day-to-day basis meeting operational Service Level Agreements
           - Project manager for the Oracle ERP upgrade project
           - Manage software selection resulting in selection and implementation of Brio OnDemand Server
+     - role: Manager
+      time: 1995 - 1999
+      company: KPMG LLP, Chicago
+      details: |
+        Install and administer Oracle and PeopleSoft ERP systems, lead small technical teams of developers and DBAs, Visual Basic programming and provide general technical support and assistance to clients.
+          - Technical lead and expert for five Oracle, PeopleSoft and Aurum ERP installation projects
+          - Organize and conduct the first national meeting of the Apps Tech National Practice
+          - Lead customer support and troubleshooting resource for two simultaneous Oracle ERP implementation projects post Go-Live
+
 projects:
     title: Projects
     intro: >
