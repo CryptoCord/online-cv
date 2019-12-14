@@ -116,6 +116,99 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Ascensia Diabetes Care AG
+        link: "#"
+        tagline: "IT Project Manager for Ascensia, formerly, Bayer Healthcare building the technical infrastructure for the new company."
+
+      - title: Amway
+        link: "#"
+        tagline: "IT Project Manager for the global implementation of Oracle eBusiness suite"
+
+      - title: KBR
+        link: "#"
+        tagline: "As the Infrastructure Lead, my responsibilities included:
+•	Work with KBR and their chosen hosting provider to bring the first three project environments online to support the Proof of Concept activities
+•	Architecture the environments required for the Build project
+•	Design and implement CCRM processes to support addition and migration of the Configuration Items identified by the process teams
+"
+
+      - title: Avaya
+        link: "#hook"
+        tagline: "As the IT Integration Lead for Finance, Supply Chain and Tax & Legal Entity, my responsibilities included:
+•	Interface directly with the Avaya and Nortel business teams to advise on the solution design and assess the IT impacts
+•	Provide advisory services to Avaya with respect to scoping, planning, developing, testing and implementing the required IT changes to support Day 1
+•	Conduct initial planning and scoping activities for post Day 1 activities and projects
+"
+
+      - title: Visa
+        link: "#"
+        tagline: "As the lead of the Performance Testing Team, my responsibilities included:
+•	Plan and manage the performance testing activities
+•	Manage the installation and configuration of HP LoadRunner and the corresponding infrastructure including license procurement
+•	Performance test the application, network and infrastructure, compile and analyze the performance data and make performance tuning recommendations based on the baseline performance tests using a set of key business processes identified by the Visa business.
+"
+
+      - title: JDS Uniphase
+        link: "#"
+        tagline: "As the lead of the Configuration Change and Release Management (CCRM) Team, my responsibilities included:
+•	Implementing Deloitte's CCRM processes
+•	Assist the project team to deliver a higher quality end result with reduced time and effort
+•	Reduce the overall risk associated with the migration of Configuration Items (CIs)
+
+As the lead for the Infrastructure Team, my responsibilities included:
+•	Manage the design of the infrastructure
+•	Manage Oracle OnDemand to deliver infrastructure in support of project timelines
+•	Monitor and escalate issues as appropriate
+
+As the lead of the Automated and Performance Testing Team, my responsibilities included:
+•	Plan and manage the automated and performance testing efforts
+•	Manage the installation and configuration of HP Quality Center, HP Performance Center and HP Project and Portfolio Management Center
+•	Implement the HP tools to automate the testing of Finance business processes 
+•	Performance test the applications and infrastructure, compile and analyze the performance data and make performance tuning recommendations based on the baseline performance tests.
+"
+
+      - title: Sun Microsystems
+        link: "#"
+        tagline: "As the Environment Management Strategy Lead, my role was to assess the current environment management strategy and update per a series of technical workshops which I led."
+
+      - title: Sun Microsystems
+        link: "#"
+        tagline: "As the PMO Technical Lead, I worked with two technical organizations within the client, DMI and ITSS, providing recommendations to make their project plans more effective."
+
+      - title: US Steel
+        link: "#hook"
+        tagline: "As the Technical Lead my responsibilities included all technical aspects of the implementation project and managing the custom development and infrastructure teams."
+  
+      - title: Verigy
+        link: "#"
+        tagline: "The specific focus of this role was to plan and migrate all site level technical environments, systems and custom developed applications.  As the last phase of this role, I provided onsite management and oversight for the overall physical relocation of the Shanghai office from the Free Trade Zone into China including everything from technical infrastructure to office furniture and even the ongoing construction of the new building."
+  
+      - title: Verigy
+        link: "#"
+        tagline: "As the Boundary Applications Lead, I managed the migration of all Boundary Applications (30+) from Agilent to the outsourcing provider for the company being divested."
+
+      - title: Verigy
+        link: "#"
+        tagline: "As the hosting lead, it was my job to specify all server hardware requirements for the entire technical infrastructure of the company being divested.  This hardware was to be set up at an outsource provider's data center.  After the requirements were specified, I managed the setup of the hardawre, monitored the process and escalated issues."
+
+      - title: Stryker EMEA
+        link: "#"
+        tagline: "Within a 6 ½ week timeframe, I led the vendor selection effort working with Deloitte DPS to present differences between IBM and Sun with respect to Time to Market, Quality of Support, Leverage Opportunities, Change Management, Pricing and Total Cost of Ownership (which included Oracle licensing).  After achieving a vendor selection from the client, I moved on to finalize the implementation instance strategy (which had been started and dropped several months before) and storage requirements, two tasks which are inherently linked."
+
+      - title: California Department of Transportation (CALTRANS)
+        link: "#"
+        tagline: "As the Project Manager, it was my responsibility to deliver the items set forth in the SOW on time, within within budget and at a level of quality which adds value and achieves the goals of the project."
+
+      - title: ACCO Brands Corporation
+        link: "#"
+        tagline: "Integration and Final Validation testing manager which included testing the core systems and all RICE components."
+
+      - title: MasterCard
+        link: "#hook"
+        tagline: "As one of MasterCard's Oracle Applications DBA's, I was responsible for all applications DBA activities with respect to the Dev, Test and Production Oracle Applications including maintenance, troubleshooting, upgrades and additional modules planning and installation.  I was involved with the planning of the upcoming upgrade from 11.5.7 to 11.5.8 and all facets of maintenance including disk, server, network and security considerations.  Managed the implementation of third party ‘bolt-on’ applications including the Xign Payment Services Network and STR Software’s Fax Manager software."    
+    
+    
+    
       - title: Intira (formerly Digital Broadcast Network)
         link: "#hook"
         tagline: "Oracle Applications 11.0.1 Implementation and upgrade to 11.0.2.  Lead DBA responsible for entire technical infrastructure including hardware, network and software implementation.  Resource staffing and technical project coordination for all technical resources onsite.  As recorded by Oracle Corporation, was the fourth person in the United States to successfully implement Oracle Business Intelligence, the first non-Oracle Corporation employee to accomplish this task."
