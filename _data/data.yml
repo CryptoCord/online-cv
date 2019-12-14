@@ -40,28 +40,12 @@ career-profile:
     summary: |
       Mr. Patterson is a results-oriented technical executive with 20+ years of experience leading clients from multiple industries through the technical aspects of their business transformation projects. Whether embarking on a large ERP implementation or building a new company’s infrastructure from the ground up, Mr. Patterson consistently delivers value to his clients through the innovative use of technology and a willingness to face any obstacle. He is a trustworthy, natural leader and an excellent communicator who gains the respect of his teams as he leads them to success.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: B.S. in Computer Engineering
+      university: Case Western Reserve University
+      time: 1995
+    - degree: A.A.S. in Computer Systems Electronics Technology
+      university: Westermoreland County CC
+      time: 1992
 experiences:
     - role: Lead Developer
       time: 2015 - Present
