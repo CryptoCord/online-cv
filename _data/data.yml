@@ -46,22 +46,15 @@ education:
     - degree: A.A.S. in Computer Systems Electronics Technology
       university: Westermoreland County CC
       time: 1992
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+professional experiences:
+    - role: Founder and President
+      time: 2017 - Present
+      company: JDee International, Pittsburgh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Identify disruptive blockchain solutions related to decentralized storage, logistics systems, auto insurance and cross-border fiat transactions while supporting operations through cryptocurrency mining.
+          - Lead researcher and designer to deploy Bitcoin Teller Machines for a commercial grocery store chain to complement their existing banking ATMs          
+          - Established XRP gateways and sent fiat (USD) across RippleNet using Ripple’s propriety blockchain technology and XRP to move the money instantly, reliably, and for fractions of a penny
+          - Build, support and operate cryptocurrency mining rigs on a 24x7 basis to mine Bitcoin and Litecoin
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
