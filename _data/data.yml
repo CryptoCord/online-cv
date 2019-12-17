@@ -112,68 +112,35 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      The following is a list of my consulting clients/projects in chronological order starting with the most recent.
     assignments:
       - title: Ascensia Diabetes Care AG
         link: "#"
-        tagline: "IT Project Manager for Ascensia, formerly, Bayer Healthcare building the technical infrastructure for the new company."
+        tagline: "IT Project Manager for Ascensia Diabetes Care AG (ADC) building the technical infrastructure for Day 1. ADC was established in 2016 through the acquisition of Bayer Diabetes Care by PHC Holdings (formerly known as Panasonic Healthcare Holdings)."
 
       - title: Amway
         link: "#"
-        tagline: "IT Project Manager for the global implementation of Oracle eBusiness suite"
+        tagline: "IT Project Manager for the global implementation of the Oracle eBusiness Suite."
 
       - title: KBR
         link: "#"
-        tagline: "As the Infrastructure Lead, my responsibilities included:
-•	Work with KBR and their chosen hosting provider to bring the first three project environments online to support the Proof of Concept activities
-•	Architecture the environments required for the Build project
-•	Design and implement CCRM processes to support addition and migration of the Configuration Items identified by the process teams
-"
-
+        tagline: "Infrastructure project manager driving the deployment of the first hosted environments of the Oracle eBusiness Suite globa implementation project for the Proof-of-Concept build; lead architect for all environments for the build and implementation phases of the project and Configuration, Change and Release Manager (CCRM) implementing ITIL based CCRM processes controlling all configuration items and their migration through the project environments."
+ 
       - title: Avaya
-        link: "#hook"
-        tagline: "As the IT Integration Lead for Finance, Supply Chain and Tax & Legal Entity, my responsibilities included:
-•	Interface directly with the Avaya and Nortel business teams to advise on the solution design and assess the IT impacts
-•	Provide advisory services to Avaya with respect to scoping, planning, developing, testing and implementing the required IT changes to support Day 1
-•	Conduct initial planning and scoping activities for post Day 1 activities and projects
-"
+         link: "#hook"
+        tagline: "IT Integration Lead for Finance, Supply Chain and Tax & Legal Entity interfacing directly with the Avaya and Nortel business teams to advise on the solution design and assess the IT impacts; provide advisory services to Avaya with respect to scoping, planning, developing, testing and implementing the required IT changes to support Day 1 and scope and plan post Day 1 activities and projects."
 
       - title: Visa
         link: "#"
-        tagline: "As the lead of the Performance Testing Team, my responsibilities included:
-•	Plan and manage the performance testing activities
-•	Manage the installation and configuration of HP LoadRunner and the corresponding infrastructure including license procurement
-•	Performance test the application, network and infrastructure, compile and analyze the performance data and make performance tuning recommendations based on the baseline performance tests using a set of key business processes identified by the Visa business.
-"
-
+        tagline: "Performance Test project manager testing the application, network and infrastructure; compile and analyze the performance data and make performance tuning recommendations to senior management based on the baseline performance tests using a set of key business processes identified by the Visa business"
+        
       - title: JDS Uniphase
         link: "#"
-        tagline: "As the lead of the Configuration Change and Release Management (CCRM) Team, my responsibilities included:
-•	Implementing Deloitte's CCRM processes
-•	Assist the project team to deliver a higher quality end result with reduced time and effort
-•	Reduce the overall risk associated with the migration of Configuration Items (CIs)
-
-As the lead for the Infrastructure Team, my responsibilities included:
-•	Manage the design of the infrastructure
-•	Manage Oracle OnDemand to deliver infrastructure in support of project timelines
-•	Monitor and escalate issues as appropriate
-
-As the lead of the Automated and Performance Testing Team, my responsibilities included:
-•	Plan and manage the automated and performance testing efforts
-•	Manage the installation and configuration of HP Quality Center, HP Performance Center and HP Project and Portfolio Management Center
-•	Implement the HP tools to automate the testing of Finance business processes 
-•	Performance test the applications and infrastructure, compile and analyze the performance data and make performance tuning recommendations based on the baseline performance tests.
-"
+        tagline: "Project manager of three projects (Infrastructure, Automated and Performance Testing, and Configuration, Change and Release Management) within JDS Uniphase's program to upgrade the Oracle eBusiness Suite and migrate the platform to Linux."
 
       - title: Sun Microsystems
         link: "#"
-        tagline: "As the Environment Management Strategy Lead, my role was to assess the current environment management strategy and update per a series of technical workshops which I led."
-
-      - title: Sun Microsystems
-        link: "#"
-        tagline: "As the PMO Technical Lead, I worked with two technical organizations within the client, DMI and ITSS, providing recommendations to make their project plans more effective."
+        tagline: "PMO IT project manager leading the DMI and ITSS organizations at Sun through a series of technical workshops to refresh the environment management strategy and revise their project plans to align with the new project milestones and schedule for Deployments 3 & 4."
 
       - title: US Steel
         link: "#hook"
