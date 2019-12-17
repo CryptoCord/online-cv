@@ -213,6 +213,10 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: A Brief Introduction to Blockchain & Cryptocurrency
+        link: "#"
+        authors: Brandon P Patterson
+        conference: Toastmasters Dawn Patrol Club
       - title: IT Best Practices for Financial Managers
         link: "#"
         authors: Janice M. Roehl-Anderson
