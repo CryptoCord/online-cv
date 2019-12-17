@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Mr. Patterson is a results-oriented technical executive with 20+ years of experience leading clients from multiple industries through the technical aspects of their business transformation projects. Whether embarking on a large ERP implementation or building a new company’s infrastructure from the ground up, Mr. Patterson consistently delivers value to his clients through the innovative use of technology and a willingness to face any obstacle. He is a trustworthy, natural leader and an excellent communicator who gains the respect of his teams as he leads them to success.
+      Mr. Patterson is a technical executive with 20+ years of experience leading clients from multiple industries through the technical challenges of their business transformation projects. Whether embarking on a large ERP implementation or building a new company’s infrastructure from the ground up, Mr. Patterson consistently delivers value to his clients through the innovative use of technology and a willingness to face any obstacle. He is a trustworthy, natural leader and an excellent communicator who gains the respect of his teams as he leads them to success.
 education:
     - degree: B.S. in Computer Engineering
       university: Case Western Reserve University
@@ -51,7 +51,7 @@ experiences:
       company: JDee International Corporation, Pittsburgh
       details: |
         Identify disruptive blockchain solutions related to decentralized storage, logistics systems, auto insurance and cross-border fiat transactions while supporting operations through cryptocurrency mining.
-          - Lead researcher and designer to deploy Bitcoin Teller Machines for a commercial grocery store chain to complement their existing banking ATMs          
+          - Lead researcher and designer to deploy Bitcoin Teller Machines for a commercial grocery store chain to complement their existing banking ATMs
           - Established XRP gateways and sent fiat (USD) across RippleNet using Ripple’s propriety blockchain technology and XRP to move the money instantly, reliably, and for fractions of a penny
           - Build, support and operate cryptocurrency mining rigs on a 24x7 basis to mine Bitcoin and Litecoin
     - role: Senior Manager
