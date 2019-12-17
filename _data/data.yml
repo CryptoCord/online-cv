@@ -127,12 +127,12 @@ projects:
         tagline: "Infrastructure project manager driving the deployment of the first hosted environments of the Oracle eBusiness Suite globa implementation project for the Proof-of-Concept build; lead architect for all environments for the build and implementation phases of the project and Configuration, Change and Release Manager (CCRM) implementing ITIL based CCRM processes controlling all configuration items and their migration through the project environments."
  
       - title: Avaya
-         link: "#hook"
+        link: "#hook"
         tagline: "IT Integration Lead for Finance, Supply Chain and Tax & Legal Entity interfacing directly with the Avaya and Nortel business teams to advise on the solution design and assess the IT impacts; provide advisory services to Avaya with respect to scoping, planning, developing, testing and implementing the required IT changes to support Day 1 and scope and plan post Day 1 activities and projects."
 
       - title: Visa
         link: "#"
-        tagline: "Performance Test project manager testing the application, network and infrastructure; compile and analyze the performance data and make performance tuning recommendations to senior management based on the baseline performance tests using a set of key business processes identified by the Visa business"
+        tagline: "Performance Test project manager testing the application, network and infrastructure; compile and analyze the performance data and make performance tuning recommendations to senior management based on the baseline performance tests using a set of key business processes identified by the Visa business."
         
       - title: JDS Uniphase
         link: "#"
