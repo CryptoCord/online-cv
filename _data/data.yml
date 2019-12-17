@@ -120,11 +120,11 @@ projects:
 
       - title: Amway
         link: "#"
-        tagline: "IT Project Manager for the global implementation of the Oracle eBusiness Suite."
+        tagline: "IT Project Manager for the global implementation of the Oracle eBusiness Suite managing the database, application DBA, data center operations, system administration, infratructure and performance testinging teams including external vendors for special projects." ."
 
       - title: KBR
         link: "#"
-        tagline: "Infrastructure project manager driving the deployment of the first hosted environments of the Oracle eBusiness Suite globa implementation project for the Proof-of-Concept build; lead architect for all environments for the build and implementation phases of the project and Configuration, Change and Release Manager (CCRM) implementing ITIL based CCRM processes controlling all configuration items and their migration through the project environments."
+        tagline: "Infrastructure project manager driving the deployment of the first hosted environments of the Oracle eBusiness Suite global implementation project for the Proof-of-Concept build; lead architect for all environments for the build and implementation phases of the project and Configuration, Change and Release Manager (CCRM) implementing ITIL based CCRM processes controlling all configuration items and their migration through the project environments."
  
       - title: Avaya
         link: "#hook"
@@ -144,35 +144,27 @@ projects:
 
       - title: US Steel
         link: "#hook"
-        tagline: "As the Technical Lead my responsibilities included all technical aspects of the implementation project and managing the custom development and infrastructure teams."
-  
-      - title: Verigy
-        link: "#"
-        tagline: "The specific focus of this role was to plan and migrate all site level technical environments, systems and custom developed applications.  As the last phase of this role, I provided onsite management and oversight for the overall physical relocation of the Shanghai office from the Free Trade Zone into China including everything from technical infrastructure to office furniture and even the ongoing construction of the new building."
-  
-      - title: Verigy
-        link: "#"
-        tagline: "As the Boundary Applications Lead, I managed the migration of all Boundary Applications (30+) from Agilent to the outsourcing provider for the company being divested."
+        tagline: "IT Project Manager for US Steel's global Oracle eBusiness Suite implementation project managing the development (RICE) and Infrastructure teams."
 
       - title: Verigy
         link: "#"
-        tagline: "As the hosting lead, it was my job to specify all server hardware requirements for the entire technical infrastructure of the company being divested.  This hardware was to be set up at an outsource provider's data center.  After the requirements were specified, I managed the setup of the hardawre, monitored the process and escalated issues."
+        tagline: "Project manager for three projects (Infrastructure & Hosting, Application Database Administration, Boundary Applications Migration) within the Agilent Project Maui program to divest it's semiconductor test systems division. The divestiture led to the creation of a new company, Verigy, which was IPO'd as part of the program unlocking millions of dollar in value for its employees and shareholders.
 
       - title: Stryker EMEA
         link: "#"
-        tagline: "Within a 6 ½ week timeframe, I led the vendor selection effort working with Deloitte DPS to present differences between IBM and Sun with respect to Time to Market, Quality of Support, Leverage Opportunities, Change Management, Pricing and Total Cost of Ownership (which included Oracle licensing).  After achieving a vendor selection from the client, I moved on to finalize the implementation instance strategy (which had been started and dropped several months before) and storage requirements, two tasks which are inherently linked."
+        tagline: "Platform lead driving a vendor selection in partnership with Deloitte Consulting Product Solutions analyzing the differences between IBM and Sun hardware platforms with respect to Time to Market, Quality of Support, Leverage Opportunities, Change Management, Pricing and Total Cost of Ownership (which included Oracle licensing).  Upon vendor selection, developed the implementation environment management strategy and capacity management plan."
 
       - title: California Department of Transportation (CALTRANS)
         link: "#"
-        tagline: "As the Project Manager, it was my responsibility to deliver the items set forth in the SOW on time, within within budget and at a level of quality which adds value and achieves the goals of the project."
+        tagline: "Project Manager for a IT strategy development project to create a five year roadmap for the expansion of CALTRANS technology capabilities and reporting solutions for the Bay Area Incident Response System (BAIRS)"
 
       - title: ACCO Brands Corporation
         link: "#"
-        tagline: "Integration and Final Validation testing manager which included testing the core systems and all RICE components."
+        tagline: "Integration and Final Validation test manager leading the user acceptance test of the newly implemented Oracle eBusiness suite and all custom developed objects."
 
       - title: MasterCard
         link: "#hook"
-        tagline: "As one of MasterCard's Oracle Applications DBA's, I was responsible for all applications DBA activities with respect to the Dev, Test and Production Oracle Applications including maintenance, troubleshooting, upgrades and additional modules planning and installation.  I was involved with the planning of the upcoming upgrade from 11.5.7 to 11.5.8 and all facets of maintenance including disk, server, network and security considerations.  Managed the implementation of third party ‘bolt-on’ applications including the Xign Payment Services Network and STR Software’s Fax Manager software."    
+        tagline: "Oracle eBusiness Suite Applications DBA maintaining and administering the Oracle eBusiness Suite environments (Dev, Test and Production) including off-hours maintenance, priority 1 issue resolution and upgrading the system from 11.0.3 to 11i (11.5.7) and planning the upgrade from 11i (11.5.7) to 11i (11.5.8), managed the implementation of third party ‘bolt-on’ applications including the Xign Payment Services Network and STR Software’s Fax Manager software."    
     
     
     
