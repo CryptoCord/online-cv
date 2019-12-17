@@ -166,8 +166,6 @@ projects:
         link: "#hook"
         tagline: "Oracle eBusiness Suite Applications DBA maintaining and administering the Oracle eBusiness Suite environments (Dev, Test and Production) including off-hours maintenance, priority 1 issue resolution and upgrading the system from 11.0.3 to 11i (11.5.7) and planning the upgrade from 11i (11.5.7) to 11i (11.5.8), managed the implementation of third party ‘bolt-on’ applications including the Xign Payment Services Network and STR Software’s Fax Manager software."    
     
-    
-    
       - title: Intira Corporation (formerly Digital Broadcast Network)
         link: "#hook"
         tagline: "Technical Project Manager building the infrastructure to support multiple environments of the Oracle Applications, upgrading the from version 11.0.1 to 11.0.2. As recorded by Oracle Corporation, this was the fourth successful installation of Oracle Business Intelligence performed by a non-Oracle Corporation employee."
@@ -210,7 +208,7 @@ projects:
     
       - title: Integrated Health Services
         link: "#hook"
-        tagline: "Applications Database Administrator intalling three instances of the Oracle 7 database and PeopleSoft HRMS."
+        tagline: "Applications Database Administrator installing three instances of the Oracle 7 database and PeopleSoft HRMS."
 
 publications:
     title: Publications
