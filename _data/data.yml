@@ -229,7 +229,7 @@ skills:
 
     toolset:
       - name: IT Project Management
-        level: 98%
+        level: 100%
 
       - name: M&A, Receive and Operate
         level: 98%
@@ -240,11 +240,11 @@ skills:
       - name: Infrastructure
         level: 98%
 
-      - name: Global Print Solutions
-        level: 90%
+      - name: Ricoh Global Print Solutions
+        level: 98%
 
-      - name: Jekyll & Hugo
-        level: 90%
+      - name: Cloud Sevices
+        level: 95%
 
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
