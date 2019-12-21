@@ -46,13 +46,15 @@ education:
       link: https://westmoreland.edu/
       time: 1992
 experiences:
-    - role: Founder and President
-      time: 2017 - Present
+    - role: Founder and CEO
+      time: 2001 - Present
       company: JDee International Corporation, Pittsburgh
       details: |
-        Identify disruptive blockchain solutions related to decentralized storage, logistics systems, auto insurance and cross-border fiat transactions while supporting operations through cryptocurrency mining.
-          - Lead researcher and designer to deploy Bitcoin Teller Machines for a commercial grocery store chain to complement their existing banking ATMs
-          - Established XRP gateways and sent fiat (USD) across RippleNet using Ripple’s propriety blockchain technology and XRP to move the money instantly, reliably, and for fractions of a penny
+        Identify disruptive technology solutions related to decentralized storage, logistics systems, auto insurance and cross-border fiat transactions. Support research and development initiatives by providing professional project management and staffing services. 
+          - Project Manager for an upgrade of Oracle Financials at Mastercard
+          - Lead researcher and designer developing a deployment approach for Bitcoin Teller Machines to complement an existing network of traditional banking ATMs
+          - Create XRP gateways and send fiat (USD) across RippleNet using Ripple’s propriety blockchain technology and XRP to move the money instantly, reliably, and for fractions of a penny
+          - Augmented Oracle ERP implementation teams at The Nielsen Corporation, University Hospitals Cleveland Medical Center, Motorola and Mastercard with developers and database administrators
           - Build, support and operate cryptocurrency mining rigs on a 24x7 basis to mine Bitcoin and Litecoin
     - role: Senior Manager
       time: 2016 - 2017
@@ -76,22 +78,14 @@ experiences:
           - Contributing author, IT Best Practices for Financial Managers
           - Create the change and release management methodology for Enterprise Value Delivery methodology
           - Lead the Recruiting Certification Initiative and internal training for SOA and CCRM
-    - role: Founder and President
-      time: 2001 - 2004
-      company: JDee International Corporation, St. Louis
-      details: |
-        Match qualified resources with client needs, negotiate contracts and service level agreements, coordinate logistics and manage the day-to-day operations of the business.
-          - Augmented Oracle ERP implementation teams at The Nielsen Corporation, University Hospitals Cleveland Medical Center, Motorola and Mastercard with developers and database administrators
-          - Lead Oracle ERP DBA for the upgrade of Oracle Financials from 11.0.3 to 11i
-          - Gross revenue of $2.6M
-    - role: Founder and President
+    - role: Founder and CEO
       time: 2002 - 2004
       company: TAB III, Inc., St. Louis
       details: |
-        Establish and operate kiosk stores as part of the St. Louis Galleria’s Specialty Leasing program.  
+        Establish and operate kiosk stores as part of the St. Louis Galleria’s Specialty Leasing Program.  
           - Established Fresh 73, November 2002
           - Established Oliver Rose, September 2003
-          - Gross sales revenue of $220K
+          - Operated the business until it's sale in March of 2004
     - role: Manager
       time: 1999 - 2001
       company: Intira Corporation, St. Louis
